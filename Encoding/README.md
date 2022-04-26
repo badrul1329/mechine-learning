@@ -1,0 +1,1 @@
+Perform encoding on categorical features.
